@@ -96,7 +96,8 @@ body {
 	background-color: #222222;
 	border-style: solid;
 	border-width: 1px;
-	
+	border-image: -webkit-linear-gradient(left, rgb(181, 225, 10), rgba(29, 26, 26, 0.9) 10%, rgba(29, 26, 26, 0.9) 90%, rgb(181, 225, 10));
+	border-color: #B5E10A;
 	border-image-slice: 1;
 	color: #FFFFFF;
 }
@@ -106,7 +107,7 @@ body {
 	background-image: -webkit-linear-gradient(left, rgb(181, 225, 10), rgba(29, 26, 26, 0.9) 10%, rgba(29, 26, 26, 0.9) 90%, rgb(181, 225, 10));
 	border-style: solid;
 	border-width: 1px;
-	border-color: #B5E10A;
+
 	color: #FFFFFF;
 }
 
